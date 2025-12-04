@@ -1,15 +1,6 @@
-/*===============================================
-Template Name: Consalt - Financ & Business Consluting HTML5 Template
-Author:  https://themeforest.net/user/dreamit-solution
-Description: Description
-Version: 1.0.0
-Text Domain: Consalt
-Tags: consulting, finance, corporate, business, consultant, multipurpose, technology, it-solution, software, agency, company, portfolio, bangking, insurance, digital-agency, digital-marketing.
-================================================*/
-
 /*TABLE OF CONTENTS*/
 /*=====================
-01. Consalt Header Area Css
+01. umit Header Area Css
 02. Sater Css Hero Area
 03. Sater Css Brand Area
 04. Sater Css Section Title
@@ -17,43 +8,43 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 06. Sater Css Service Area
 07. Sater Css Marquee Area
 08. Sater Css About Area
-09. start consalt button css
-10. Start consalt Counter Area CSS
-11. Start consalt Steps Area CSS
-12. Start consalt Pricing Area CSS
-13. Start consalt Case study Area CSS
-14. Start consalt Team Area CSS
-15. Start consalt Testimonial Area CSS
-16. Start consalt Blog Area CSS
-17. Start consalt Footer Area CSS
-18. Start consalt Topber CSS
-19. Start consalt Hero Area Style Two CSS
-20. Start consalt Counter Area Style Two CSS
-21. Start consalt About Area Style Two CSS
-22. Start consalt Service Area Style Two CSS
-23. Start consalt Skill Area CSS
-24. Start consalt Call  Area CSS
-25. Start consalt Testimonial Area Style Two CSS
-26. Start consalt CaseStudy Area Style Two CSS
-27. Start consalt Pricing Area Style Two CSS
-28. Start consalt Call Area Style Two CSS
-30. Start consalt Blog Area Style Two CSS
-31. Start consalt Call  Area Style Three CSS
-32. Start consalt footer Area Style Two CSS
-33. Start consalt Consalt Topber Area Style Two CSS
-34. Start consalt Consalt Header Area Style Three CSS 
-35. Start consalt Hero Area Style Three CSS
-36. Start consalt About Area Style Three CSS
-37.Start consalt marquee Area Style Two CSS
-38. Start consalt Service Area Style Three CSS
-39. Start consalt Why Choose Area CSS
-40. Start consalt Team Area Style Two CSS
-41. Start consalt Testimonial Area Style Three CSS
-42. Start consalt Counter Area Style Three CSS
-43. Start consalt Contact Area CSS
-44. Start consalt Blog Area Style Three CSS
-45. Start consalt Footer Area Style Three CSS
-46. Start Consalt Inner page Breadcumb Area
+09. start umit button css
+10. Start umit Counter Area CSS
+11. Start umit Steps Area CSS
+12. Start umit Pricing Area CSS
+13. Start umit Case study Area CSS
+14. Start umit Team Area CSS
+15. Start umit Testimonial Area CSS
+16. Start umit Blog Area CSS
+17. Start umit Footer Area CSS
+18. Start umit Topber CSS
+19. Start umit Hero Area Style Two CSS
+20. Start umit Counter Area Style Two CSS
+21. Start umit About Area Style Two CSS
+22. Start umit Service Area Style Two CSS
+23. Start umit Skill Area CSS
+24. Start umit Call  Area CSS
+25. Start umit Testimonial Area Style Two CSS
+26. Start umit CaseStudy Area Style Two CSS
+27. Start umit Pricing Area Style Two CSS
+28. Start umit Call Area Style Two CSS
+30. Start umit Blog Area Style Two CSS
+31. Start umit Call  Area Style Three CSS
+32. Start umit footer Area Style Two CSS
+33. Start umit umit Topber Area Style Two CSS
+34. Start umit umit Header Area Style Three CSS 
+35. Start umit Hero Area Style Three CSS
+36. Start umit About Area Style Three CSS
+37.Start umit marquee Area Style Two CSS
+38. Start umit Service Area Style Three CSS
+39. Start umit Why Choose Area CSS
+40. Start umit Team Area Style Two CSS
+41. Start umit Testimonial Area Style Three CSS
+42. Start umit Counter Area Style Three CSS
+43. Start umit Contact Area CSS
+44. Start umit Blog Area Style Three CSS
+45. Start umit Footer Area Style Three CSS
+46. Start umit Inner page Breadcumb Area
 47. Start Inner Page Team Area
 48. Start Inner Page Portfolio Details
 49. Start Inner Page Conatct Area
@@ -64,9 +55,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =======================*/
 
 /*---=====================================================
-   <!--Consalt Header Area Css-->
+   <!--Header Area Css-->
 =========================================================---*/
-.consalt-header-area {
+.umit-header-area {
     position: relative;
     z-index: 3;
     margin-bottom: -86px;
@@ -77,7 +68,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     align-items: center;
     justify-content: center;
 }
-.consalt-header-area  ul {
+.umit-header-area  ul {
     display: inline-block;
 }
 .header-menu ul li {
@@ -145,7 +136,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #fff !important;
 }
 /* sub menu style two */
-.consalt-header-area.style_two .header-menu ul .sub_menu li a {
+.umit-header-area.style_two .header-menu ul .sub_menu li a {
     display: block;
     padding: 12px 20px;
 }
@@ -393,7 +384,7 @@ h2.brand_title:before {
     content: "";
     height: 2px;
     width: 50px;
-    background: #006666;
+    background: #004863;
     top: 29%;
     left: 0;
     right: 0;
@@ -459,7 +450,6 @@ section.brand_area.style_two {
     position: absolute;
     left: 0;
     bottom: 33%;
-    background: url(../images/home_3/hero_border.png);
     height: 15px;
     width: 100%;
     content: "";
@@ -481,7 +471,7 @@ section.brand_area.style_two {
 .section_title.style_four {
     margin-bottom: 82px;
 }
-/* consalt right */
+/* umit right */
 .conslat_right p {
     width: 75%;
     margin-bottom: 0;
@@ -603,7 +593,7 @@ section.service_area.boxed {
 .service_single_item:before {
     position: absolute;
     top: 0;
-    background: #0a4b4b;
+    background: #004863;
     width: 100%;
     content: "";
     height: 316px;
@@ -620,7 +610,7 @@ section.service_area.boxed {
 }
 .service_content {
     border-radius: 0 0 20px 20px;
-    background-color: #0a4b4b;
+    background-color: #0093cb;
     transition: .5s;
     text-align: left;
     padding: 34px 40px 27px;
@@ -655,7 +645,7 @@ section.service_area.boxed {
     margin-top: 0;
 }
 .service_single_item:hover .service_content h3 {
-    color: #004863;
+    color: #0093cb;
 }
 /* ====Service Button====== */
 .service_btn {
@@ -668,7 +658,7 @@ section.service_area.boxed {
     font-size: 14px;
     line-height: 32px;
     text-transform: uppercase;
-    color: #0a4b4b;
+    color: #0093cb;
     font-weight: 500;
 }
 .service_btn a i {
@@ -683,7 +673,7 @@ section.service_area.boxed {
 }
 .service_single_item:hover .service_btn a i {
     margin-left: 8px;
-    color: #0a4b4b;
+    color: #0093cb;
 }
 .service_shape {
     position: absolute;
@@ -1012,12 +1002,12 @@ left: 50%;
 }
 
 /* =================================
-  <--- start consalt button css --->
+  <--- start umit button css --->
 =============================== */
-.consalt_btn {
+.umit_btn {
     text-align: right;
 }
-.consalt_btn a {
+.umit_btn a {
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -1036,7 +1026,7 @@ left: 50%;
     transition: 0.4s;
     border: none;
 }
-.consalt_btn span {
+.umit_btn span {
     position: absolute;
     z-index: -1;
     width: 0;
@@ -1049,14 +1039,14 @@ left: 50%;
     -webkit-transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
     transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
 }
-.consalt_btn a:hover, .consalt_btn a:focus {
+.umit_btn a:hover, .umit_btn a:focus {
 	color: #0093cb;
 }
-.consalt_btn a:hover span, .consalt_btn a:focus span {
+.umit_btn a:hover span, .umit_btn a:focus span {
 	width: 200%;
 	height: 500px;
 }
-.consalt_btn a:before {
+.umit_btn a:before {
     position: absolute;
     content: "";
     left: 40px;
@@ -1067,14 +1057,14 @@ left: 50%;
     height: 2px;
     transition: .5s;
 }
-.consalt_btn a:hover:before {
+.umit_btn a:hover:before {
     width: 105px;
     background-color: #0093cb;
     z-index: 1;
 }
 
 /* =====================================
-  <--- Start consalt Counter Area CSS --->
+  <--- Start umit Counter Area CSS --->
 ========================================= */
 section.counter_area {
     background: #004863;
@@ -1083,7 +1073,6 @@ section.counter_area {
 }
 .counter_upper {
     border-bottom: 2px solid rgba(12,110,109,0.4);
-    padding-bottom: 34px;
     margin-bottom: 27px;
 }
 .counter-single-item {
@@ -1145,7 +1134,7 @@ section.counter_area {
 }
 
 /* =========================================================
-  <--- Start consalt Steps Area CSS --->
+  <--- Start umit Steps Area CSS --->
 ============================================================ */
 
 section.steps_area {
@@ -1230,7 +1219,7 @@ h3.steps_number {
 }
 
 /* =========================================================
-  <--- Start consalt Pricing Area CSS --->
+  <--- Start umit Pricing Area CSS --->
 ============================================================ */
 section.pricing-area {
     background-color: #004863;
@@ -1344,15 +1333,15 @@ section.pricing-area .section_title p {
     top: -6px;
 }
 
-/* consalt button */
+/* umit button */
 
-.consalt_btn.style_two {
+.umit_btn.style_two {
     text-align: left;
 }
-.consalt_btn.style_two a:before {
+.umit_btn.style_two a:before {
     display: none;
 }
-.consalt_btn.style_two a {
+.umit_btn.style_two a {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
@@ -1361,16 +1350,16 @@ section.pricing-area .section_title p {
     background: transparent;
     color: #0093cb;
 }
-.consalt_btn.style_two a:hover {
+.umit_btn.style_two a:hover {
     color: #ffff;
 }
-.consalt_btn.style_two span {
+.umit_btn.style_two span {
     background-color: #0093cb;
 
 }
 
-/* consalt button style three  */
-.consalt_btn.style_three a {
+/* umit button style three  */
+.umit_btn.style_three a {
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
@@ -1384,22 +1373,22 @@ section.pricing-area .section_title p {
     background-color: #0093cb;
     line-height: 80px;
 }
-.consalt_btn.style_three a:hover {
+.umit_btn.style_three a:hover {
     color: #0093cb;
 
 }
-.consalt_btn.style_three span {
+.umit_btn.style_three span {
     background-color: #ffff;
 
 }
-.consalt_btn.style_three a i {
+.umit_btn.style_three a i {
     display: inline-block;
     transform: rotate(-45deg);
     font-size: 20px;
     font-weight: 700;
 }
 /* =========================================================
-  <--- Start consalt Case study Area CSS --->
+  <--- Start umit Case study Area CSS --->
 ============================================================ */
 
 section.case-study-area {
@@ -1501,7 +1490,7 @@ section.case-study-area {
     transform: rotate(-45deg);
 }
 /* =========================================================
-  <--- Start consalt Team Area CSS --->
+  <--- Start umit Team Area CSS --->
 ============================================================ */
 
 section.team_area {
@@ -1532,7 +1521,7 @@ section.team_area {
 }
 
 /* =========================================================
-  <--- Start consalt Testimonial Area CSS --->
+  <--- Start umit Testimonial Area CSS --->
 ============================================================ */
 
 .testimonial_area {
@@ -1634,7 +1623,7 @@ section.team_area {
 
 
 /* =========================================================
-  <--- Start consalt Blog Area CSS --->
+  <--- Start umit Blog Area CSS --->
 ============================================================ */
 .blog_area {
     padding: 85px 0 172px;
@@ -1749,16 +1738,16 @@ section.team_area {
     margin-left: -8px;
     font-size: 15px;
     font-weight: 600;
-    color: #0a4b4b;
+    color: #004863;
 }
 /* all hover */
 .single-blog-box:hover .blog_btn a{
     letter-spacing: 0;
-    color: #0a4b4b;
+    color: #004863;
 }
 .single-blog-box:hover .blog_btn a i {
     margin-left: 8px;
-    color: #0a4b4b;
+    color: #004863;
 }
 /* owl dots */
 
@@ -1788,7 +1777,7 @@ section.team_area {
 }
 
 /* =========================================================
-  <--- Start consalt Footer Area CSS --->
+  <--- Start umit Footer Area CSS --->
 ============================================================ */
 .footer_area {
     background: #004863;
@@ -1955,9 +1944,9 @@ button.btn:hover {
 
 
 /* =========================================================
-  <--- Start consalt Topber CSS --->
+  <--- Start umit Topber CSS --->
 ============================================================ */
-.consalt-header-area.style_two {
+.umit-header-area.style_two {
     margin-bottom: -132px;
     margin-top: 0;
 }
@@ -1985,27 +1974,27 @@ span.right_info {
     color: #fff;
     font-size: 15px;
 }
-.consalt-header-area.style_two .row.style_bg {
+.umit-header-area.style_two .row.style_bg {
     border-radius: 5px;
-    background-color: #006666;
+    background-color: #004863;
     margin: 0;
     padding: 0 2px 0 19px;
 }
-.consalt-header-area.style_two .header-menu ul li a {
+.umit-header-area.style_two .header-menu ul li a {
     display: inline-block;
     padding: 28px 0 28px;
     color: #ffff;
 }
-.consalt-header-area.style_two .header-menu ul li span {
+.umit-header-area.style_two .header-menu ul li span {
     color: #fff;
 }
 
 /* cibsakt header right */
 
-.consalt_header-right {
+.umit_header-right {
     text-align: right;
 }
-.consalt_header-right .header-button a {
+.umit_header-right .header-button a {
     border-radius: 0;
     padding: 28px 33px;
     border-left: 1px solid rgba(255,255,255,0.2);
@@ -2031,12 +2020,12 @@ span.right_info {
     display: inline-block;
     font-size: 15px;
 }
-.sticky.consalt-header-area.style_two .row.style_bg {
+.sticky.umit-header-area.style_two .row.style_bg {
     background: transparent;
 }
 
 /* =========================================================
-  <--- Start consalt Hero Area Style Two CSS --->
+  <--- Start umit Hero Area Style Two CSS --->
 ============================================================ */
 section.hero_area.style_two {
     background: url(../images/home_two/banner_2.png);
@@ -2111,7 +2100,7 @@ section.hero_area.style_two .hero_content {
     top: 25%;
 }
 /* =========================================================
-  <--- Start consalt Counter Area Style Two CSS --->
+  <--- Start umit Counter Area Style Two CSS --->
 ============================================================ */
 
 .counter_area.style_two {
@@ -2152,12 +2141,12 @@ h5.title_two {
 }
 
 /* =========================================================
-  <--- Start consalt About Area Style Two CSS --->
+  <--- Start umit About Area Style Two CSS --->
 ============================================================ */
 section.about_area.style_two {
     background: #ffff;
     position: relative;
-    padding: 198px 0 120px;
+    padding: 50px 0 120px;
 }
 .about_play.style_two {
     top: -15%;
@@ -2255,7 +2244,7 @@ section.about_area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt Service Area Style Two CSS --->
+  <--- Start umit Service Area Style Two CSS --->
 ============================================================ */
 
 .container-fluid.custom_container {
@@ -2312,10 +2301,10 @@ section.about_area.style_two {
     color: #fff;
 }
 .service_single_item.style_two:hover .service_btn a {
-    color: #0a4b4b;
+    color: #004863;
 }
 .service_single_item.style_two .service_btn a i {
-    color: #0a4b4b;
+    color: #004863;
     font-size: 16px;
     transform: rotate(-45deg);
     display: inline-block;
@@ -2365,7 +2354,7 @@ section.about_area.style_two {
     transform: rotate(-45deg);
 }
 .service_list button.owl-prev i, .service_list button.owl-next i:hover {
-    background: #006666;
+    background: #004863;
     color: #fff;
 }
 
@@ -2388,7 +2377,7 @@ section.about_area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt Skill Area CSS --->
+  <--- Start umit Skill Area CSS --->
 ============================================================ */
 
 section.skills_area {
@@ -2481,7 +2470,7 @@ span.fill {
 }
 
 /* =========================================================
-  <--- Start consalt Call  Area CSS --->
+  <--- Start umit Call  Area CSS --->
 ============================================================ */
 
 section.call_area {
@@ -2539,18 +2528,18 @@ section.call_area {
     margin: 7px 0 0;
 }
 
-.consalt_btn.style_four a {
+.umit_btn.style_four a {
     border: 1px solid #ffffff91;
     color: #fff;
     padding: 15px 43px 15px;
 }
-.consalt_btn.style_four a:hover {
-    color: #006666;
+.umit_btn.style_four a:hover {
+    color: #004863;
 }
-.consalt_btn.style_four a i {
+.umit_btn.style_four a i {
     margin-right: 10px;
 }
-.consalt_btn.style_four span {
+.umit_btn.style_four span {
     background: #fff;
 }
 .call_shape {
@@ -2565,7 +2554,7 @@ section.call_area {
 }
 
 /* =========================================================
-  <--- Start consalt Testimonial Area Style Two CSS --->
+  <--- Start umit Testimonial Area Style Two CSS --->
 ============================================================ */
 section.testimonial_area.style_two {
     background: #004863;
@@ -2665,7 +2654,7 @@ section.testimonial_area.style_two {
     text-align: center;
 }
 .testi_list .owl-prev i, .testi_list .owl-next i:hover {
-    background: #006666;
+    background: #004863;
     color: #fff;
 }
 /* ====== Brand style Uppwer ===== */
@@ -2676,7 +2665,7 @@ section.testimonial_area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt CaseStudy Area Style Two CSS --->
+  <--- Start umit CaseStudy Area Style Two CSS --->
 ============================================================ */
 section.case-study-area.style_two {
     padding: 105px 0 107px;
@@ -2759,16 +2748,16 @@ section.case-study-area.style_two {
     color: #fff;
     margin-top: 12px;
 }
-.case-study_box .consalt_btn {
+.case-study_box .umit_btn {
     position: absolute;
     bottom: 10%;
     opacity: 0;
     transition: .5s;
 }
-.case-study_box .case-study-thumb:hover .consalt_btn {
+.case-study_box .case-study-thumb:hover .umit_btn {
     opacity: 1;
 }
-.case-study_box .case-study-single-box .consalt_btn a {
+.case-study_box .case-study-single-box .umit_btn a {
     background: #e0f1df;
     color: #004863;
     padding: 7px 25px 7px;
@@ -2788,7 +2777,7 @@ section.case-study-area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt Pricing Area Style Two CSS --->
+  <--- Start umit Pricing Area Style Two CSS --->
 ============================================================ */
 section.pricing-area.style_two {
     position: relative;
@@ -2814,16 +2803,16 @@ section.pricing-area.style_two {
     color: #004863;
     font-weight: 500;
 }
-.consalt_btn.five {
+.umit_btn.five {
     margin-top: 36px;
 }
-.consalt_btn.five a {
+.umit_btn.five a {
     border: 1px solid #ffffff91;
     color: #fff;
     padding: 15px 42px 15px;
     background: #0093cb;
 }
-.consalt_btn.five span {
+.umit_btn.five span {
     background: #fff;
 }
 /* pricing style two */
@@ -2912,7 +2901,7 @@ section.pricing-area.style_two {
 .pricing-single-items.style_two:hover .pricing-item-text span {
     color: #E3F1E2;
 }
-.pricing-single-items.style_two:hover .consalt_btn a {
+.pricing-single-items.style_two:hover .umit_btn a {
     background: #119695;
     color: #fff;
 }
@@ -2924,7 +2913,7 @@ section.pricing-area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt Call Area Style Two CSS --->
+  <--- Start umit Call Area Style Two CSS --->
 ============================================================ */
 section.call_area.style_two {
     background: url(../images/home_two/call_bg.png);
@@ -2997,7 +2986,7 @@ section.call_area.style_two .call-do-content h2 {
 }
 
 /* =========================================================
-  <--- Start consalt Blog Area Style Two CSS --->
+  <--- Start umit Blog Area Style Two CSS --->
 ============================================================ */
 
 section.blog_area.style_two {
@@ -3021,7 +3010,7 @@ section.blog_area.style_two .section_title.style_four:before {
 }
 
 /* =========================================================
-  <--- Start consalt Call  Area Style Three CSS --->
+  <--- Start umit Call  Area Style Three CSS --->
 ============================================================ */
 .call_area.style_three .call-do-action-info {
     justify-content: left;
@@ -3066,7 +3055,7 @@ section.blog_area.style_two .section_title.style_four:before {
 }
 
 /* =========================================================
-  <--- Start consalt footer Area Style Two CSS --->
+  <--- Start umit footer Area Style Two CSS --->
 ============================================================ */
 section.footer_area.style_two {
     border-radius: 0;
@@ -3133,7 +3122,7 @@ section.footer_area.style_two {
 /* ================= Start Home Three Css================= */
 
 /* =========================================================
-  <--- Start consalt Consalt Topber Area Style Two CSS --->
+  <--- Start umit umit Topber Area Style Two CSS --->
 ============================================================ */
 .topber_area.style_two {
     background: #004863;
@@ -3183,24 +3172,24 @@ section.footer_area.style_two {
 }
 
 /* =========================================================
-  <--- Start consalt Consalt Header Area Style Three CSS --->
+  <--- Start umit umit Header Area Style Three CSS --->
 ============================================================ */
 
-.consalt-header-area.style_three {
+.umit-header-area.style_three {
     margin-bottom: 0;
     margin-top: 0;
     padding: 8px 0 8px;
 }
-.consalt-header-area.style_three .header-menu ul li a {
+.umit-header-area.style_three .header-menu ul li a {
     color: #004863;
 }
-.consalt-header-area.style_three .header-menu ul li span {
+.umit-header-area.style_three .header-menu ul li span {
     color: #004863;
 }
-.consalt-header-area.style_three  .header-search-button.search-box-outer {
+.umit-header-area.style_three  .header-search-button.search-box-outer {
     padding: 0px 35px 0 0;
 }
-.consalt-header-area.style_three .header-search-button a {
+.umit-header-area.style_three .header-search-button a {
     color: #004863;
     display: inline-block;
     font-size: 15px;
@@ -3214,11 +3203,11 @@ section.footer_area.style_two {
 .header-button.style_two a i {
     margin-left: 5px;
 }
-.consalt-header-area.style_three  .nav-btn.navSidebar-button {
+.umit-header-area.style_three  .nav-btn.navSidebar-button {
     top: 6px;
     margin: 0 0 0 16px;
 }
-.consalt-header-area.style_three .nav-btn span i {
+.umit-header-area.style_three .nav-btn span i {
     color: #0093cb;
     width: 56px;
     height: 56px;
@@ -3229,24 +3218,24 @@ section.footer_area.style_two {
 
 /* Sticky */
 
-.sticky.consalt-header-area.style_three {
+.sticky.umit-header-area.style_three {
     background: url(../images/home_3/counter_bg.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
-.sticky.consalt-header-area.style_three .header-menu ul li a {
+.sticky.umit-header-area.style_three .header-menu ul li a {
     color: #ffff !important;
 }
-.sticky.consalt-header-area.style_three .header-menu ul.sub_menu li a {
-    color: #006666!important;
+.sticky.umit-header-area.style_three .header-menu ul.sub_menu li a {
+    color: #004863!important;
 }
-.sticky.consalt-header-area.style_three .header-menu ul.sub_menu li a:hover {
+.sticky.umit-header-area.style_three .header-menu ul.sub_menu li a:hover {
     color: #ffff!important;
 }
 
 
-.sticky.consalt-header-area.style_three .header-search-button a {
+.sticky.umit-header-area.style_three .header-search-button a {
     color: #fff !important;
 }
 .sticky .header-button.style_two a {
@@ -3263,7 +3252,7 @@ a.active_sticky {
 }
 
 /* =========================================================
-  <--- Start consalt Hero Area Style Three CSS --->
+  <--- Start umit Hero Area Style Three CSS --->
 ============================================================ */
 
 section.hero_area.style_three {
@@ -3290,7 +3279,6 @@ section.hero_area.style_three {
     content: "";
     left: 0;
     bottom: -19px;
-    background: url(../images/home_3/hero_border.png);
     height: 12px;
     width: 100%;
     background-repeat: no-repeat;
@@ -3332,7 +3320,7 @@ section.hero_area.style_three {
     height: 55px;
     width: 55px;
     line-height: 57px;
-    background: #ff9307;
+    background: #004863;
     border-radius: 50%;
     text-align: center;
     color: #fff;
@@ -3354,7 +3342,7 @@ section.hero_area.style_three {
 }
 
 /* =========================================================
-  <--- Start consalt About Area Style Three CSS --->
+  <--- Start umit About Area Style Three CSS --->
 ============================================================ */
 
 .about_area.style_three {
@@ -3410,7 +3398,7 @@ section.hero_area.style_three {
 }
 
 /* =========================================================
-  <--- Start consalt marquee Area Style Two CSS --->
+  <--- Start umit marquee Area Style Two CSS --->
 ============================================================ */
 
 .marquee_area.style_two {
@@ -3500,12 +3488,12 @@ section.hero_area.style_three {
 }
 
 /* =========================================================
-  <--- Start consalt Service Area Style Three CSS --->
+  <--- Start umit Service Area Style Three CSS --->
 ============================================================ */
 
 section.service_area.style_three {
     background-image: linear-gradient(0deg, #ffffff 0%, #eff3f5 100%);
-    padding: 105px 0 190px;
+    padding: 105px 0 15px;
 }
 section.service_area.style_two.style_three.inner_page {
     background: #fff;
@@ -3527,7 +3515,7 @@ section.service_area.style_two.style_three.inner_page {
     bottom: 0px;
     height: 5px;
     border-radius: 2px;
-    background-color: #ff9307;
+    background-color: #004863;
     left: 50%;
 }
 .service_single_item.style_three:hover:before {
@@ -3629,7 +3617,7 @@ section.service_area.style_two.style_three.inner_page {
     left: 0;
     height: 100%;
     width: 0%;
-    background: #ff9307;
+    background: #004863;
     top: 0;
     z-index: -1;
     border-radius: 3px;
@@ -3711,7 +3699,7 @@ section.service_area.style_two.style_three.inner_page {
 }
 
 /* =========================================================
-  <--- Start consalt Why Choose Area CSS --->
+  <--- Start umit Why Choose Area CSS --->
 ============================================================ */
 
 section.why_choose_us {
@@ -3814,7 +3802,7 @@ section.why_choose_us {
 
 
 /* =========================================================
-  <--- Start consalt Team Area Style Two CSS --->
+  <--- Start umit Team Area Style Two CSS --->
 ============================================================ */
 
 .team_area.style_two {
@@ -3876,7 +3864,7 @@ section.why_choose_us {
     width: 42px;
     height: 42px;
     border-radius: 50%;
-    background-color: #ff9307;
+    background-color: #004863;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -3967,7 +3955,7 @@ section.why_choose_us {
 }
 
 /* =========================================================
-  <--- Start consalt Testimonial Area Style Three CSS --->
+  <--- Start umit Testimonial Area Style Three CSS --->
 ============================================================ */
 section.testimonial_area.style_three {
     background: url(../images/home_3/testi_bg.png);
@@ -4034,7 +4022,7 @@ section.testimonial_area.style_three {
     width: 0%;
     bottom: 0px;
     height: 5px;
-    background-color: #ff9307;
+    background-color: #004863;
     left: 50%;
     transition: .5s;
     z-index: -1;
@@ -4126,7 +4114,7 @@ section.testimonial_area.style_three {
 }
 
 /* =========================================================
-  <--- Start consalt Counter Area Style Three CSS --->
+  <--- Start umit Counter Area Style Three CSS --->
 ============================================================ */
 
 .counter_area.style_three {
@@ -4154,7 +4142,7 @@ section.testimonial_area.style_three {
 }
 
 /* =========================================================
-  <--- Start consalt Contact Area CSS --->
+  <--- Start umit Contact Area CSS --->
 ============================================================ */
 
 section.contact_area {
@@ -4186,7 +4174,7 @@ section.contact_area {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background-color: #ff9307;
+    background-color: #004863;
     content: "";
     z-index: -1;
 }
@@ -4197,7 +4185,7 @@ section.contact_area {
     width: 103px;
     height: 103px;
     border-radius: 50%;
-    border: 2px solid #ff9307;
+    border: 2px solid #004863;
     content: "";
     z-index: -1;
 }
@@ -4272,7 +4260,7 @@ section.contact_area {
     font-weight: 500;
 }
 .contact-form-box.style_two .contact-form button:hover {
-    background: #ff9307;
+    background: #004863;
     color: #ffff;
 }
 .contact-form-box.style_two .contact-form i {
@@ -4297,7 +4285,7 @@ section.contact_area {
 }
 
 /* =========================================================
-  <--- Start consalt Blog Area Style Three CSS --->
+  <--- Start umit Blog Area Style Three CSS --->
 ============================================================ */
 
 .blog_category {
@@ -4321,7 +4309,7 @@ section.contact_area {
     z-index: -1;
     height: 100%;
     width: 0%;
-    background: #ff9307;
+    background: #004863;
     left: 0;
     top: 0;
     content: "";
@@ -4382,7 +4370,7 @@ section.contact_area {
 }
 
 /* =========================================================
-  <--- Start consalt Footer Area Style Three CSS --->
+  <--- Start umit Footer Area Style Three CSS --->
 ============================================================ */
 
 section.footer_area.style_three {
@@ -4451,19 +4439,19 @@ section.footer_area.style_three {
 }
 
 /* ==============================================================
-    <-- Start Consalt Home Page Four  Area -->
+    <-- Start umit Home Page Four  Area -->
 =================================================================*/
-.consalt-header-area.style_four {
+.umit-header-area.style_four {
     background: #09162f;
     padding: 8px 50px 8px;
 }
-.sticky.consalt-header-area.boxed.box_two {
+.sticky.umit-header-area.boxed.box_two {
     height: 100px;
 }
-.consalt-header-area.style_four .header-menu ul li a {
+.umit-header-area.style_four .header-menu ul li a {
     color: #fff;
 }
-.consalt-header-area.style_four .header-menu ul li span {
+.umit-header-area.style_four .header-menu ul li span {
     color: #ffffffa8;
 }
 .search-containers {
@@ -4497,7 +4485,7 @@ section.footer_area.style_three {
     font-size: 16px;
     margin-left: 15px;
 }
-.consalt-header-area.style_four .nav-btn span i {
+.umit-header-area.style_four .nav-btn span i {
     color: #fff;
     line-height: 46px;
     width: 46px;
@@ -4505,7 +4493,7 @@ section.footer_area.style_three {
     border-radius: 50%;
     background-color: #4d44f8;
 }
-.consalt-header-area.style_four  .nav-btn.navSidebar-button {
+.umit-header-area.style_four  .nav-btn.navSidebar-button {
     top: 3px;
     margin: 0 0 0 70px;
 }
@@ -4646,7 +4634,7 @@ section.hero_area.style_four .hero_content {
     background: #4d44f8;
 }
 /* ==============================================================
-    <-- Start Consalt Feature Area Style Two Css-->
+    <-- Start umit Feature Area Style Two Css-->
 =================================================================*/
 section.feature_area.style_two {
     background: #fff;
@@ -4736,7 +4724,7 @@ section.feature_area.style_two {
 }
 
 /* ==============================================================
-    <-- Start Consalt About Area Style Four Css-->
+    <-- Start umit About Area Style Four Css-->
 =================================================================*/
 
 section.about_area.style_four {
@@ -4847,7 +4835,7 @@ section.about_area.style_four {
 }
 
 /* ==============================================================
-    <-- Start Consalt Service Area Style Four Css-->
+    <-- Start umit Service Area Style Four Css-->
 =================================================================*/
 
 section.service_area.styel_four {
@@ -4948,7 +4936,7 @@ section.service_area.styel_four {
 }
 
 /* ==============================================================
-    <-- Start Consalt Work Area  Css-->
+    <-- Start umit Work Area  Css-->
 =================================================================*/
 
 section.work_area {
@@ -4956,12 +4944,12 @@ section.work_area {
     padding: 105px 0 120px;
     z-index: 1;
 }
-.consalt_btn.home_four_three a {
+.umit_btn.home_four_three a {
     background: transparent;
     border: 1px solid #fff;
     padding: 12px 36px;
 }
-.consalt_btn.home_four_three a:before {
+.umit_btn.home_four_three a:before {
     left: 37px;
     bottom: 13px;
 }
@@ -5032,7 +5020,7 @@ section.work_area {
 }
 
 /* ==============================================================
-    <-- Start Consalt Steps  Area Style Two Css-->
+    <-- Start umit Steps  Area Style Two Css-->
 =================================================================*/
 
 section.steps_area.style_two {
@@ -5082,7 +5070,7 @@ section.steps_area.style_two {
 }
 
 /* ==============================================================
-    <-- Start Consalt Marquee Area Style Three Css-->
+    <-- Start umit Marquee Area Style Three Css-->
 =================================================================*/
 .marquee_area.style_two.style_three {
     background: #4D44F9;
@@ -5095,7 +5083,7 @@ section.steps_area.style_two {
 }
 
 /* ==============================================================
-    <-- Start Consalt Team Area Style four Css-->
+    <-- Start umit Team Area Style four Css-->
 =================================================================*/
 
 section.team_area.style_four {
@@ -5149,7 +5137,7 @@ section.team_area.style_four {
 }
 
 /* ==============================================================
-    <-- Start Consalt Testimonial Area Style four Css-->
+    <-- Start umit Testimonial Area Style four Css-->
 =================================================================*/
 
 section.testimonial_area.style_four {
@@ -5222,7 +5210,7 @@ section.testimonial_area.style_four {
     color: #fff;
 }
 /* ==============================================================
-    <-- Start Consalt Blog Area Style four Css-->
+    <-- Start umit Blog Area Style four Css-->
 =================================================================*/
 
 section.blog_area.style_four {
@@ -5260,7 +5248,7 @@ section.blog_area.style_four .blog_list .owl-dots {
 }
 
 /* ==============================================================
-    <-- Start Consalt Contact Area Style Two Css-->
+    <-- Start umit Contact Area Style Two Css-->
 =================================================================*/
 
 section.contact_area.style_two {
@@ -5360,31 +5348,31 @@ section.footer_area.style_four .footer_widget_icon i {
 
 
 /* ==============================================================
-    <-- Start Consalt Home Five Css-->
+    <-- Start umit Home Five Css-->
 =================================================================*/
-.consalt-header-area.style_five .row.style_bg {
+.umit-header-area.style_five .row.style_bg {
     background: #fff;
     padding: 3px 6px 3px 56px;
     border-radius: 0 0 80px 80px;
 }
-.consalt-header-area.style_five .header-menu {
+.umit-header-area.style_five .header-menu {
     justify-content: space-evenly;
     display: flex;
     align-items: center;
 }
-.consalt-header-area.style_five .header-menu ul li a {
+.umit-header-area.style_five .header-menu ul li a {
     display: inline-block;
     padding: 28px 0 28px;
     color: #004863 ;
 }
-.consalt-header-area.style_five .header-menu ul li a span {
+.umit-header-area.style_five .header-menu ul li a span {
     color: #004863 ;
 }
-.consalt_header-right.style_two .header-search-button.search-box-outer {
+.umit_header-right.style_two .header-search-button.search-box-outer {
     padding: 0px 16px 0 0;
     display: inline-block;
 }
-.consalt_header-right.style_two .header-button a {
+.umit_header-right.style_two .header-button a {
     border-radius: 0;
     padding: 0;
     border-left: 0;
@@ -5395,7 +5383,7 @@ section.footer_area.style_four .footer_widget_icon i {
     display: inline-block;
     position: relative;
 }
-.consalt_header-right.style_two .header-button a:before {
+.umit_header-right.style_two .header-button a:before {
     position: absolute;
     content: "";
     width: 20px;
@@ -5405,10 +5393,10 @@ section.footer_area.style_four .footer_widget_icon i {
     display: inline-block;
     transition: .5s;
 }
-.consalt_header-right.style_two .header-button a:hover:before {
+.umit_header-right.style_two .header-button a:hover:before {
     width: 107px;
 }
-.consalt_header-right.style_two .header-search-button.search-box-outer a {
+.umit_header-right.style_two .header-search-button.search-box-outer a {
     color: #0093cb;
     display: inline-block;
     font-size: 15px;
@@ -5419,51 +5407,51 @@ section.footer_area.style_four .footer_widget_icon i {
     line-height: 40px;
     text-align: center;
 }
-.sticky.consalt-header-area.style_five {
+.sticky.umit-header-area.style_five {
     background: transparent !important;
     border: none;
     box-shadow: none;
 }
-.sticky.consalt-header-area.style_five .row.style_bg {
+.sticky.umit-header-area.style_five .row.style_bg {
     background: #fff;
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
 }
-.sticky.consalt-header-area.style_five .header-menu ul li a i {
+.sticky.umit-header-area.style_five .header-menu ul li a i {
     color: #004863 ;
 }
 
 /*
 <!-- =======================================-->
- <!--start consalt slider area css-->
+ <!--start umit slider area css-->
 <!-- ======================================= -->*/
-.consalt-slider-height {
+.umit-slider-height {
     height: 935px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.consalt-slider-height-2 {
+.umit-slider-height-2 {
     height: 950px;
 }
   
-  .consalt-slider-bg {
+  .umit-slider-bg {
     background: url(../images/home-five/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
   }
 
-.consalt-slider-bg2 {
+.umit-slider-bg2 {
     background: url(../images/home-five/banner3.png);
 }
 
-.consalt-slider-bg3 {
+.umit-slider-bg3 {
     background: url(../images/home-five/slider2.png);
   }
 
-  .consalt-slider-bg,
-  .consalt-slider-bg2,
-  .consalt-slider-bg3 {
+  .umit-slider-bg,
+  .umit-slider-bg2,
+  .umit-slider-bg3 {
     position: absolute;
     top: 0;
     left: 0;
@@ -5481,18 +5469,18 @@ section.footer_area.style_four .footer_widget_icon i {
       -webkit-transform 9000ms ease;
   }
   
-.consalt-slider-content {
+.umit-slider-content {
     padding-top: 0;
     text-align: left;
 }
-h1.consalt-slider-title {
+h1.umit-slider-title {
     margin-top: 15px;
     font-size: 56px;
     line-height: 70px;
     color: #004863;
     font-weight: 600;
 }
-p.consalt-slider-des {
+p.umit-slider-des {
     opacity: 0;
     z-index: 3;
     position: relative;
@@ -5505,48 +5493,48 @@ p.consalt-slider-des {
     transition: all 2500ms ease;
     margin: 0 0 30px;
 }
-.consalt-slider-height .slider_info a {
+.umit-slider-height .slider_info a {
     color: #004863;
 }
-.consalt-slider-height .slider_info span {
+.umit-slider-height .slider_info span {
     color: #004863;
 }
-  .consalt-slider-title-box {
+  .umit-slider-title-box {
     opacity: 0;
     z-index: 3;
     position: relative;
     transform: translateY(-150px);
   }
-  .consalt-slider-btn {
+  .umit-slider-btn {
     transform: translateY(150px);
     opacity: 0;
   }
-  .consalt-slider-wrapper .swiper-slide.swiper-slide-active .consalt-slider-bg {
+  .umit-slider-wrapper .swiper-slide.swiper-slide-active .umit-slider-bg {
     -webkit-transform: scale(1.2);
     transform: scale(1.1);
   }
-  .consalt-slider-wrapper
+  .umit-slider-wrapper
     .swiper-slide.swiper-slide-active
-    .consalt-slider-bg2 {
+    .umit-slider-bg2 {
     -webkit-transform: scale(1.2);
     transform: scale(1);
   }
-.consalt-slider-wrapper .swiper-slide.swiper-slide-active .consalt-slider-title-box {
+.umit-slider-wrapper .swiper-slide.swiper-slide-active .umit-slider-title-box {
     opacity: 1;
     transform: translatey(-17px);
     transition: all 2500ms ease;
 }
-  .consalt-slider-wrapper
+  .umit-slider-wrapper
     .swiper-slide.swiper-slide-active
-    .consalt-slider-btn {
+    .umit-slider-btn {
     opacity: 1;
     transform: translatey(0px);
     transition: all 2500ms ease;
   }
   
-.consalt-slider-wrapper
+.umit-slider-wrapper
 .swiper-slide.swiper-slide-active
-p.consalt-slider-des {
+p.umit-slider-des {
     opacity: 1;
     z-index: 3;
     position: relative;
@@ -5564,7 +5552,7 @@ p.consalt-slider-des {
     background: transparent;
     border: 2px solid #4a4e56;
 }
-.consalt-slider-wrapper .swiper-pagination-bullet-active {
+.umit-slider-wrapper .swiper-pagination-bullet-active {
     background: #004863!important;
     border: 2px solid #004863!important;
 }
@@ -5577,7 +5565,7 @@ p.consalt-slider-des {
 
 /*
 <!-- ================================================-->
- <!--start consalt Feature Area Style Four css-->
+ <!--start umit Feature Area Style Four css-->
 <!-- ============================================== -->*/
 
 section.feature_area.style_four {
@@ -5778,7 +5766,7 @@ p.about_qute::before {
 }
 
 /* ========================================================
-    <-- Start Consalt  Service Area Style Five -->
+    <-- Start umit  Service Area Style Five -->
 ===========================================================*/
 
 section.service_area.styel_five {
@@ -5933,7 +5921,7 @@ section.service_area.styel_five .section_title.text-center {
 }
 
 /* ========================================================
-    <-- Start Consalt  Counter Area Style Sixs -->
+    <-- Start umit  Counter Area Style Sixs -->
 ===========================================================*/
 
 section.counter_area.style_sixs {
@@ -5945,11 +5933,11 @@ section.counter_area.style_sixs .counter_upper {
     border-bottom: 1px solid rgba(12,110,109,0.4);
     margin-bottom: 39px;
 }
-section.counter_area.style_sixs .consalt_btn a {
+section.counter_area.style_sixs .umit_btn a {
     color: #0393cb;
     background-color: #dfedf1;
 }
-section.counter_area.style_sixs .consalt_btn a:before {
+section.counter_area.style_sixs .umit_btn a:before {
     background-color: #0393cb;
 }
 .counter-single-item.style_sixs {
@@ -5996,7 +5984,7 @@ section.counter_area.style_sixs .consalt_btn a:before {
 }
 
 /* ========================================================
-    <-- Start Consalt  Case Study Area Style Three -->
+    <-- Start umit  Case Study Area Style Three -->
 ===========================================================*/
 
 section.case-study-area.style_three {
@@ -6016,7 +6004,7 @@ section.case-study-area.style_three {
 }
 
 /* ========================================================
-    <-- Start Consalt  Call Area Style Four -->
+    <-- Start umit  Call Area Style Four -->
 ===========================================================*/
 
 section.call_area.style_four {
@@ -6042,7 +6030,7 @@ section.call_area.style_four .call_info h3 {
 }
 
 /* ========================================================
-    <-- Start Consalt  Testimonal Style Five -->
+    <-- Start umit  Testimonal Style Five -->
 ===========================================================*/
 
 section.testimonial_area.style_five {
@@ -6127,10 +6115,10 @@ section.testimonial_area.style_five {
 section.testimonial_area.style_five .section_title p {
     width: 85%;
 }
-.consalt_btn.home_five {
+.umit_btn.home_five {
     text-align: left;
 }
-.consalt_btn.home_five a:hover:before {
+.umit_btn.home_five a:hover:before {
     width: 129px;
 }
 section.blog_area.style_five {
@@ -6166,10 +6154,10 @@ section.contact_form {
     font-weight: 500;
     margin: 25px 0 24px;
 }
-section.contact_form .consalt_btn.home_five {
+section.contact_form .umit_btn.home_five {
     text-align: right;
 }
-section.contact_form .consalt_btn a:before {
+section.contact_form .umit_btn a:before {
     display: none;
 }
 section.footer_area.style_five {
@@ -6182,12 +6170,12 @@ section.footer_area.style_five {
 }
 
 /* ========================================================
-    <-- Start Consalt  Home Page Six -->
+    <-- Start umit  Home Page Six -->
 ===========================================================*/
 
 /* Header area style six */
 
-.consalt-header-area.style_sixs {
+.umit-header-area.style_sixs {
     padding: 4px 20px 4px 60px;
     position: relative;
     width: calc(100% - 40px);
@@ -6196,16 +6184,16 @@ section.footer_area.style_five {
     background: #E9EBEC;
     border-radius: 20px 20px 0 0;
 }
-.consalt-header-area.style_sixs  .nav-btn.navSidebar-button {
+.umit-header-area.style_sixs  .nav-btn.navSidebar-button {
     top: 6px;
     margin: 0 23px 0 0;
 }
-.consalt-header-area.style_sixs  .header-search-button.search-box-outer {
+.umit-header-area.style_sixs  .header-search-button.search-box-outer {
     padding: 0px 20px 0 0;
     border-right: 1px solid #00171c5c;
     margin-right: 20px;
 }
-.consalt-header-area.style_sixs .nav-btn span i {
+.umit-header-area.style_sixs .nav-btn span i {
     color: #00171C;
     width: inherit;
     height: inherit;
@@ -6213,13 +6201,13 @@ section.footer_area.style_five {
     background-color: transparent;
     line-height: inherit;
 }
-.consalt-header-area.style_sixs .header-button.style_two a {
+.umit-header-area.style_sixs .header-button.style_two a {
     background: #0093cb;
     padding: 11px 42px;
     border-radius: 5px;
     border: 1px solid transparent;
 }
-.sticky.consalt-header-area.style_sixs {
+.sticky.umit-header-area.style_sixs {
     margin: 0;
     width: 100%;
     border-radius: 0;
@@ -6417,7 +6405,7 @@ section.hero_slider.style_sixs .swiper-pagination-bullet-active {
 }
 
 /* ====================================================
-<-- Start Consalt Feature Area Style Five  Area -->
+<-- Start umit Feature Area Style Five  Area -->
 ========================================================*/
 
 .feature_item.style_five {
@@ -6443,7 +6431,7 @@ section.hero_slider.style_sixs .swiper-pagination-bullet-active {
 }
 
 /* ====================================================
-<-- Start Consalt About Area Style six  Area -->
+<-- Start umit About Area Style six  Area -->
 ========================================================*/
 
 section.about_area.style_sixs {
@@ -6554,7 +6542,7 @@ section.about_area.style_sixs .about_button {
 }
 
 /* ====================================================
-<-- Start Consalt Pricing Area Style Five  Area -->
+<-- Start umit Pricing Area Style Five  Area -->
 ========================================================*/
 section.pricing_area.style_three {
     padding: 105px 0 70px;
@@ -6676,22 +6664,22 @@ li.list_line {
     border-radius: 50%;
     z-index: -1;
 }
-.pricing-single-item .consalt_btn.style_two {
+.pricing-single-item .umit_btn.style_two {
     text-align: center;
     margin-top: 30px;
 }
-.pricing-single-item .consalt_btn.style_two a {
+.pricing-single-item .umit_btn.style_two a {
     border-radius: 5px;
     background: #006E6D;
     color: #fff;
     padding: 8px 40px;
 }
-.pricing-single-item:hover .consalt_btn.style_two a {
+.pricing-single-item:hover .umit_btn.style_two a {
     border-radius: 10px;
     background: #fff;
     color: #006E6D;
 }
-.pricing-single-item .consalt_btn.style_two a:hover {
+.pricing-single-item .umit_btn.style_two a:hover {
     color: #ffff;
 }
 
@@ -6743,7 +6731,7 @@ li.current a {
 }
 
 /* ====================================================
-<-- Start Consalt Team Area Style Five  Area -->
+<-- Start umit Team Area Style Five  Area -->
 ========================================================*/
 
 section.team_area.style_five {
@@ -6810,11 +6798,11 @@ a.team_join {
     bottom: 14%;
     left: 5%;
 }
-section.team_area.style_five .consalt_btn a {
+section.team_area.style_five .umit_btn a {
     border-radius: 10px;
     padding: 14px 30px;
 }
-section.team_area.style_five .consalt_btn a:before {
+section.team_area.style_five .umit_btn a:before {
     left: 29px;
 }
 section.team_area.style_five a:hover:before {
@@ -6828,7 +6816,7 @@ section.team_area.style_five.section_title p {
 
 
 /* ====================================================
-<-- Start Consalt Case Study Area Style Four  Area -->
+<-- Start umit Case Study Area Style Four  Area -->
 ========================================================*/
 
 section.case-study-area.style_four {
@@ -6899,20 +6887,20 @@ section.case-study-area.style_four {
     display: inline-block;
     font-weight: 600;
 }
-.case-study-single-box.style_three .consalt_btn a {
+.case-study-single-box.style_three .umit_btn a {
     border-radius: 5px;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 1px;
     padding: 11px 30px;
 }
-.case-study-single-box.style_three .consalt_btn a i {
+.case-study-single-box.style_three .umit_btn a i {
     font-weight: 600;
     font-size: 11px;
     transform: rotate(-45deg);
     display: inline-block;
 }
-.case-study-single-box.style_three .consalt_btn a:before {
+.case-study-single-box.style_three .umit_btn a:before {
     left: 31px;
     bottom: 15px;
 }
@@ -6921,7 +6909,7 @@ section.case-study-area.style_four {
 }
 
 /* ====================================================
-<-- Start Consalt Blog Area Style Six  Area -->
+<-- Start umit Blog Area Style Six  Area -->
 ========================================================*/
 
 section.blog_area.style_sixs {
@@ -6968,20 +6956,20 @@ section.blog_area.style_sixs .meta-blog p span {
 }
 
 /* ====================================================
-<-- Start Consalt Inner page Breadcumb Area -->
+<-- Start umit Inner page Breadcumb Area -->
 ========================================================*/
 
-.consalt-header-area.inner_page {
+.umit-header-area.inner_page {
     background: #F4F8F9;
     padding: 8px 56px 8px;
 }
-.consalt-header-area.inner_page .header-button.style_two a {
+.umit-header-area.inner_page .header-button.style_two a {
     background: #0093cb;
     padding: 15px 35px;
     border: 1px solid transparent;
     border-radius: 30px;
 }
-.consalt-header-area.inner_page .nav-btn span i {
+.umit-header-area.inner_page .nav-btn span i {
     color: #0093cb;
     width: inherit;
     height: inherit;
@@ -6989,10 +6977,10 @@ section.blog_area.style_sixs .meta-blog p span {
     background-color: transparent;
     line-height: inherit;
 }
-.sticky.consalt-header-area.inner_page .header-button.style_two a {
+.sticky.umit-header-area.inner_page .header-button.style_two a {
     border: 1px solid #fff;
 }
-.sticky.consalt-header-area.inner_page .nav-btn span i {
+.sticky.umit-header-area.inner_page .nav-btn span i {
     color: #fff;
 }
 
@@ -7041,7 +7029,6 @@ section.blog_area.style_sixs .meta-blog p span {
     bottom: 11px;
     height: 12px;
     width: 66%;
-    background: url(../images/inner-img/line_shape.png);
     background-repeat: no-repeat;
     margin: auto;
     text-align: center;
@@ -7360,7 +7347,7 @@ a.active {
    Start Inner Page Portfolio Details
 ================================================= */
 section.portfolio_details {
-    padding: 0 0 120px;
+    padding: 0 0 0px;
 }
 .port_main {
     background: #ffff;
@@ -7442,12 +7429,12 @@ p.port_text:before {
     font-weight: 500;
     margin: 6px 0 0;
 }
-.sidebar_box.style_two .consalt_btn.sidebar_style {
+.sidebar_box.style_two .umit_btn.sidebar_style {
     margin-top: 30px;
 }
-.consalt_btn.sidebar_style a {
+.umit_btn.sidebar_style a {
     padding: 15px 40px;
-    border: 1px solid #006666;
+    border: 1px solid #004863;
 }
 
 /* pagination container */
@@ -7843,7 +7830,7 @@ h2.sidebar_title {
     font-size: 15px;
     margin-right: 15px;
 }
-.consalt_btn.sidebar_style {
+.umit_btn.sidebar_style {
     text-align: left;
 }
 /*--==============================================->
@@ -8337,7 +8324,7 @@ to {
     top: 0;
     right: 0;
     bottom: 0;
-    background: #006666;
+    background: #004863;
     border-radius: 50%;
     transition: .5s;
     transform: scale(0);
@@ -8414,7 +8401,7 @@ to {
 }
 
 .close-side-widget i {
-    color: #006666;
+    color: #004863;
     font-size: 28px;
     display: block;
 }
@@ -8453,7 +8440,7 @@ to {
 }
 
 .xs-bg-black {
-    background-color: #006666;
+    background-color: #004863;
 }
 
 /*html css*/
@@ -8486,7 +8473,7 @@ a.theme-btn.btn-style-two span {
 }
 
 a.theme-btn.btn-style-two i {
-    color: #006666;
+    color: #004863;
 }
 
 .contact-info h2 {
@@ -8511,7 +8498,7 @@ ul.list-style-one li i {
 ul.list-style-one li span {
     font-size: 20px;
     font-weight: 600;
-    color: #006666;
+    color: #004863;
     margin: 0 10px 0 0px;
 }
 
@@ -8532,14 +8519,14 @@ ul.social-box li a {
     line-height: 36px;
     text-align: center;
     background: #fff;
-    color: #006666;
+    color: #004863;
     transition: .5s;
     font-size: 18px;
     border-radius: 3px;
 }
 
 ul.social-box li a:hover {
-    background: #006666;
+    background: #004863;
     color: #fff;
 }
 
@@ -8585,7 +8572,7 @@ ul.social-box li a:hover {
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background-color: #006666;
+    background-color: #004863;
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
@@ -8671,7 +8658,7 @@ ul.social-box li a:hover {
     background: transparent;
     text-align: center;
     font-size: 24px;
-    color: #006666;
+    color: #004863;
     padding: 0;
     cursor: pointer;
     -webkit-transition: all 500ms ease;
@@ -8748,7 +8735,7 @@ ul.social-box li a:hover {
     height: 16px;
     line-height: 16px;
     text-align: center;
-    background: #006666;
+    background: #004863;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
@@ -8820,7 +8807,7 @@ button.close-search i {
     animation: spinner 1s infinite linear;
     border-radius: 50%;
     border: 4px solid #E2DFDD;
-    border-top-color: #ff9307;
+    border-top-color: #004863;
     width: 150px;
     height: 150px;
     margin: 0 auto 3.5em auto;
@@ -8999,8 +8986,8 @@ button.close-search i {
 	@media (max-width: 991px) {
 		.counter_area .counter_upper .row { display:flex; flex-direction:column; align-items:center; }
 		.counter_area .section_title { text-align:center; }
-		.counter_area .consalt_btn.text-right { text-align:center !important; margin-top:14px; }
-		.counter_area .consalt_btn.text-right a { display:inline-block; margin:0 auto; }
+		.counter_area .umit_btn.text-right { text-align:center !important; margin-top:14px; }
+		.counter_area .umit_btn.text-right a { display:inline-block; margin:0 auto; }
 	}
 
 	

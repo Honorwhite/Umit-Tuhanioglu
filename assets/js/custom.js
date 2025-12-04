@@ -6,7 +6,7 @@
   "use strict";
 
 	// hero slider all js
-	const sliderswiper = new Swiper('.consalt-slider-active', {
+	const sliderswiper = new Swiper('.umit-slider-active', {
 		// Optional parameters
 		speed:3000,
 		loop: true,

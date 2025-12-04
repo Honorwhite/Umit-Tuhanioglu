@@ -2,7 +2,7 @@
 @media (min-width: 1400px) and (max-width: 1600px) {
 
 
-    .consalt-header-area {
+    .umit-header-area {
         margin-bottom: -78px;
     }
     .header-menu ul li a {
@@ -81,7 +81,7 @@
     .case-study_box .case-study-content p.case_text {
         font-size: 14px;
     }
-    .case-study_box .consalt_btn {
+    .case-study_box .umit_btn {
         bottom: 2%;
     }
 
@@ -111,7 +111,7 @@
     }
 
     /* Start Home four */
-    .consalt-header-area.style_four  .nav-btn.navSidebar-button {
+    .umit-header-area.style_four  .nav-btn.navSidebar-button {
         display: none;
     }
     .slider_list .owl-prev {
@@ -156,7 +156,7 @@
 
       /* ====== Start Home Six Css==== */
 
-      .consalt-header-area.style_sixs .header-button.style_two a {
+      .umit-header-area.style_sixs .header-button.style_two a {
         padding: 11px 25px;
     }
 
@@ -244,14 +244,14 @@
     section.hero_area.style_two {
         height: 781px;
     }
-    .consalt_header-right .header-button a {
+    .umit_header-right .header-button a {
         padding: 15px 15px;
     }
     .counter-single-item.style_two {
         padding: 45px 25px 52px;
     }
     section.about_area.style_two {
-        padding: 154px 0 110px;
+        padding: 50px 0 110px;
     }
     .about_area.style_two .about_thumb img {
         width: 100%;
@@ -331,13 +331,13 @@
     }
 
     /* ======== Start Home  Four ========= */
-    .consalt-header-area.style_four {
+    .umit-header-area.style_four {
         padding: 8px 0 8px;
     }
-    .consalt-header-area.style_four  .nav-btn.navSidebar-button {
+    .umit-header-area.style_four  .nav-btn.navSidebar-button {
         display: none;
     }
-    .consalt-header-area.style_four .consalt_header-right {
+    .umit-header-area.style_four .umit_header-right {
         text-align: inherit;
     }
     .slider_list .owl-prev {
@@ -420,7 +420,7 @@
     }
     .blog_btn a {
         letter-spacing: 0;
-        color: #0a4b4b;
+        color: #004863;
     }
     .blog_btn a i {
         margin-left: 10px;
@@ -482,13 +482,13 @@
         margin: 70px 0 0;
     }
         /* ======== Start Home  Four ========= */
-        .consalt-header-area.style_four {
+        .umit-header-area.style_four {
             padding: 8px 35px 0 8px;
         }
-        .consalt-header-area.style_four  .nav-btn.navSidebar-button {
+        .umit-header-area.style_four  .nav-btn.navSidebar-button {
             display: none;
         }
-        .consalt-header-area.style_four .consalt_header-right {
+        .umit-header-area.style_four .umit_header-right {
             text-align: inherit;
         }
         .slider_list .owl-prev {
@@ -540,7 +540,7 @@
         .team_shpe_arrow {
             display: none;
         }
-        .consalt-header-area.style_sixs .header-button.style_two a {
+        .umit-header-area.style_sixs .header-button.style_two a {
             padding: 11px 25px;
         }
         .single-team_item.style_five {
@@ -555,7 +555,7 @@
 
 /* Normal desktop :992px. */
 @media (min-width: 992px) and (max-width: 1299px) {
-    .consalt-header-area {
+    .umit-header-area {
         margin-bottom: -74px;
     }
     .header-button a {
@@ -728,13 +728,13 @@
    .header-menu ul li {
         margin: 0 6px 0;
     }
-    .consalt-header-area.style_two .header-menu ul li a {
+    .umit-header-area.style_two .header-menu ul li a {
         font-size: 14px;
     }
     .header-search-button.search-box-outer {
         padding: 0px 8px 0 0;
     }
-    .consalt_header-right .header-button a {
+    .umit_header-right .header-button a {
         padding: 11px 12px;
     }
     section.hero_area.style_two {
@@ -750,7 +750,7 @@
         font-size: 40px;
     }
     section.about_area.style_two {
-        padding: 105px 0 110px;
+        padding: 40px 0 110px;
     }
     .container-fluid.custom_container {
         margin: 0 0 0 30px;
@@ -767,7 +767,7 @@
     .ckills_thumb img {
         width: 100%;
     }
-    .consalt_btn.style_four a {
+    .umit_btn.style_four a {
         padding: 8px 20px 8px;
         font-size: 13px;
     }
@@ -917,7 +917,7 @@
 
     /* ======== Start Home Four Area ========= */
 
-    .consalt-header-area.style_four {
+    .umit-header-area.style_four {
         padding: 8px 14px 8px;
     }
     .search-containers input {
@@ -963,7 +963,7 @@
     }
 
      /* ====== Start Home Five Css==== */
-     p.consalt-slider-des {
+     p.umit-slider-des {
         width: 48%;
     }
      .slider-dots {
@@ -1041,10 +1041,10 @@
     
     /* =========== Start Home Six Css ========= */
 
-    .consalt-header-area.style_sixs {
+    .umit-header-area.style_sixs {
         padding: 4px 0 4px 0;
     }
-    .consalt-header-area.style_sixs .header-button.style_two a {
+    .umit-header-area.style_sixs .header-button.style_two a {
         padding: 11px 20px;
     }
     .hero_slide_content h1 {
@@ -1086,7 +1086,7 @@
 
     /* ======== Breadcumb Area ========= */
 
-    .consalt-header-area.inner_page {
+    .umit-header-area.inner_page {
         padding: 8px 25px 8px;
     }
     .breadcumb-area {
@@ -1095,7 +1095,7 @@
     .breadcumb-area.style_two {
         background-size: cover;
     }
-    .consalt-header-area.inner_page .header-button.style_two a {
+    .umit-header-area.inner_page .header-button.style_two a {
         padding: 9px 22px;
     }
     .team_thumb img {
@@ -1122,7 +1122,7 @@
 
 /* Normal desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
-    .consalt-header-area {
+    .umit-header-area {
         display: none;
     }
     .sticky {
@@ -1231,7 +1231,7 @@
     section.pricing-area {
         padding: 105px 0 90px;
     }
-    .consalt_btn.style_two {
+    .umit_btn.style_two {
         margin-bottom: 30px;
     }
 /* ===== Case Study Area */
@@ -1304,7 +1304,7 @@
         font-size: 40px;
     }
     section.about_area.style_two {
-        padding: 120px 0 112px;
+        padding: 30px 0 112px;
     }
     .container-fluid.custom_container {
         margin: 0 0 0 20px;
@@ -1436,7 +1436,7 @@
     .service_single_item.style_four {
         margin-bottom: 30px;
     }
-    .consalt_btn {
+    .umit_btn {
         text-align: left;
         margin-top: 20px;
     }
@@ -1450,9 +1450,9 @@
         display: none;
     }
 
-    /* === Start Consalt Home Five Css ==== */
+    /* === Start umit Home Five Css ==== */
 
-    p.consalt-slider-des {
+    p.umit-slider-des {
         width: 49%;
     }
     .feature_item.style_four {
@@ -1496,7 +1496,7 @@
     section.testimonial_area.style_five {
         padding: 110px 0 321px 15px;
     }
-    section.testimonial_area.style_five .consalt_btn.home_five {
+    section.testimonial_area.style_five .umit_btn.home_five {
         margin-bottom: 30px;
     }
     .testimonial_item.style_five .testimonial-content:before {
@@ -1591,7 +1591,7 @@
 /* Normal desktop :600px. */
 @media (min-width: 600px) and (max-width: 767px) {
 
-    .consalt-header-area {
+    .umit-header-area {
         display: none;
     }
     .sticky {
@@ -1714,7 +1714,7 @@
     .pricing-single-items.upper {
         margin-top: 0;
     }
-    .consalt_btn.style_two {
+    .umit_btn.style_two {
         margin-bottom: 30px;
     }
 /* ===== Case Study Area */
@@ -1784,7 +1784,7 @@
         margin-top: 24px;
     }
     section.about_area.style_two {
-        padding: 166px 0 92px;
+        padding: 30px 0 92px;
     }
     .container-fluid.custom_container {
         margin: 0 0 0 20px;
@@ -1796,7 +1796,7 @@
         display: none;
     }
     .service_single_item.style_two .service_thumb {
-        display: none;
+        display: block;
     }
     .service_list .owl-nav {
         right: 9%;
@@ -1845,7 +1845,7 @@
     .case-study_box .case-study-content {
         padding: 33px 20px 0;
     }
-    .case-study_box .consalt_btn.style_four {
+    .case-study_box .umit_btn.style_four {
         bottom: -6%;
     }
     .conslat_right p {
@@ -1949,7 +1949,7 @@
         left: 15%;
     }
     section.service_area.style_three {
-        padding: 85px 0 190px;
+        padding: 85px 0 15px;
     }
     .why_choose_us .section_title.style_three:before {
         bottom: 61%;
@@ -2029,12 +2029,12 @@
         display: none;
     }
 
-    /* === Start Consalt Home Five Css ==== */
+    /* === Start umit Home Five Css ==== */
 
-    h1.consalt-slider-title {
+    h1.umit-slider-title {
         font-size: 45px;
     }
-    p.consalt-slider-des {
+    p.umit-slider-des {
         width: 65%;
     }
     .feature_item.style_four {
@@ -2081,7 +2081,7 @@
     section.testimonial_area.style_five {
         padding: 110px 0 321px 15px;
     }
-    section.testimonial_area.style_five .consalt_btn.home_five {
+    section.testimonial_area.style_five .umit_btn.home_five {
         margin-bottom: 30px;
     }
     .testimonial_item.style_five .testimonial-content:before {
@@ -2106,7 +2106,7 @@
         border-right: none;
         padding: 27px 0 0;
     }
-    section.call_area.style_four .consalt_btn {
+    section.call_area.style_four .umit_btn {
         text-align: left;
         margin-top: 30px;
     }
@@ -2117,7 +2117,7 @@
     .row.form_bg {
         padding: 28px 20px 32px;
     }
-    section.contact_form .consalt_btn.home_five {
+    section.contact_form .umit_btn.home_five {
         text-align: left;
     }
     section.footer_area.style_five {
@@ -2263,7 +2263,7 @@
 /* small mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 599px) {
 
-    .consalt-header-area {
+    .umit-header-area {
         display: none;
     }
     /* ===== Hero Area ===== */
@@ -2381,7 +2381,7 @@
         height: 110px;
         line-height: 110px;
     }
-    .consalt_btn {
+    .umit_btn {
         text-align: left;
         margin-top: 30px;
     }
@@ -2409,7 +2409,7 @@
     .pricing-single-items.upper {
         margin-top: 0;
     }
-    .consalt_btn.style_two {
+    .umit_btn.style_two {
         margin-bottom: 30px;
     }
 
@@ -2485,7 +2485,7 @@
         width: 100%;
     }
     section.about_area.style_two {
-        padding: 150px 0 92px;
+        padding: 20px 0 92px;
     }
     .container-fluid.custom_container {
         margin: 0 0 0 20px;
@@ -2497,7 +2497,7 @@
         display: none;
     }
     .service_single_item.style_two .service_thumb {
-        display: none;
+        display: block;
     }
     .service_list .owl-nav {
         right: 9%;
@@ -2540,7 +2540,7 @@
     .case-study_box .case-study-content {
         padding: 33px 20px 0;
     }
-    .case-study_box .consalt_btn.style_four {
+    .case-study_box .umit_btn.style_four {
         bottom: 2%;
     }
     .conslat_right p {
@@ -2659,7 +2659,7 @@
         left: 15%;
     }
     section.service_area.style_three {
-        padding: 85px 0 190px;
+        padding: 85px 0 15px;
     }
     .why_choose_us .section_title.style_three:before {
         bottom: 61%;
@@ -2776,11 +2776,11 @@
 
     /* ==== Start Home Page Five Css ===== */
 
-    h1.consalt-slider-title {
+    h1.umit-slider-title {
         font-size: 40px;
         line-height: 50px;
     }
-    p.consalt-slider-des {
+    p.umit-slider-des {
         width: 72%;
     }
     section.about_area.style_five {
@@ -2814,7 +2814,7 @@
     section.testimonial_area.style_five {
         padding: 97px 0 286px 0;
     }
-    section.testimonial_area.style_five .consalt_btn.home_five {
+    section.testimonial_area.style_five .umit_btn.home_five {
         margin-bottom: 30px;
     }
     .testimonial_item.style_five .testimonial-content:before{
@@ -2827,7 +2827,7 @@
     .row.form_bg {
         padding: 28px 20px 32px;
     }
-    section.contact_form .consalt_btn.home_five {
+    section.contact_form .umit_btn.home_five {
         text-align: left;
 
     }
@@ -2918,7 +2918,7 @@
         font-size: 35px;
     }
     section.portfolio_details {
-        padding: 28px 0 100px;
+        padding: 28px 0 0px;
     }
     p.port_text {
         width: 100%;
@@ -3006,7 +3006,7 @@
 /* Mobile Devices :320px. */
 @media (min-width: 320px) and (max-width: 479px) {
 
-    .consalt-header-area {
+    .umit-header-area {
         display: none;
     }
     /* ===== Hero Area ===== */
@@ -3137,7 +3137,7 @@
         height: 110px;
         line-height: 110px;
     }
-    .consalt_btn {
+    .umit_btn {
         text-align: left;
         margin-top: 30px;
     }
@@ -3197,7 +3197,7 @@
     .pricing-single-items.upper {
         margin-top: 0;
     }
-    .consalt_btn.style_two {
+    .umit_btn.style_two {
         margin-bottom: 30px;
     }
     .pricing_inner {
@@ -3297,7 +3297,7 @@
         display: block;
     }
     section.about_area.style_two {
-        padding: 100px 0 90px;
+        padding: 20px 0 90px;
     }
     .container-fluid.custom_container {
         margin: 0;
@@ -3309,7 +3309,7 @@
         display: none;
     }
     .service_single_item.style_two .service_thumb {
-        display: none;
+        display: block;
     }
     .service_list .owl-nav {
         display: none;
@@ -3361,7 +3361,7 @@
     .case-study_box .case-study-content {
         padding: 33px 20px 0;
     }
-    .case-study_box .consalt_btn.style_four {
+    .case-study_box .umit_btn.style_four {
         bottom: -6%;
     }
     .conslat_right p {
@@ -3524,7 +3524,7 @@
         left: 15%;
     }
     section.service_area.style_three {
-        padding: 85px 0 135px;
+        padding: 85px 0 15px;
     }
     .why_choose_us .section_title.style_three:before {
         bottom: 61%;
@@ -3722,11 +3722,11 @@
 
     /* ==== Start Home Page Five Css ===== */
 
-    h1.consalt-slider-title {
+    h1.umit-slider-title {
         font-size: 25px;
         line-height: 40px;
     }
-    p.consalt-slider-des {
+    p.umit-slider-des {
         width: 100%;
     }
     .feature_item.style_four {
@@ -3786,7 +3786,7 @@
     section.testimonial_area.style_five {
         padding: 97px 0 286px 0;
     }
-    section.testimonial_area.style_five .consalt_btn.home_five {
+    section.testimonial_area.style_five .umit_btn.home_five {
         margin-bottom: 30px;
     }
     .testimonial_item.style_five .testimonial-content:before{
@@ -3802,7 +3802,7 @@
     .row.form_bg {
         padding: 28px 20px 32px;
     }
-    section.contact_form .consalt_btn.home_five {
+    section.contact_form .umit_btn.home_five {
         text-align: left;
 
     }
@@ -3936,7 +3936,7 @@
 
     }
     section.portfolio_details {
-        padding: 28px 0 100px;
+        padding: 28px 0 0px;
     }
     p.port_text {
         width: 100%;
