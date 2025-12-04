@@ -3,13 +3,19 @@
     RewriteEngine On
     RewriteBase /
 
-    # Remove .html extension from URLs
-    # Redirect /page.html to /page
+    # Redirect requests for /index or /index.html to root /
+    # This ensures the homepage URL does not show "index" at the end.
+    RewriteCond %{THE_REQUEST} \s/+index(\.html)?\s [NC]
+    RewriteRule ^index(\.html)?$ / [R=301,L]
+
+    # Remove .html extension from other URLs
+    # If a request does not match an existing file or directory,
+    # internally rewrite the extensionless URL to the corresponding .html file.
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
-    # Redirect /page.html requests to /page (remove .html from URLs)
+    # Redirect direct .html requests to extensionless URLs (e.g. /page.html -> /page)
     RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^\ ]+)\.html\ HTTP
     RewriteRule ^([^\ ]+)\.html$ /$1 [R=301,L]
 </IfModule>
