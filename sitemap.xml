@@ -1,62 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace ALL occurrences of https://YOUR_DOMAIN_HERE with your actual site URL -->
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/</loc>
+    <loc>https://www.umittuhanioglu.com/</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/hakkinda.html</loc>
+    <loc>https://www.umittuhanioglu.com/hakkinda.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/hizmetler.html</loc>
+    <loc>https://www.umittuhanioglu.com/hizmetler.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/blog.html</loc>
+    <loc>https://www.umittuhanioglu.com/blog.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/iletisim.html</loc>
+    <loc>https://www.umittuhanioglu.com/iletisim.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/cocuk-ortopedi.html</loc>
+    <loc>https://www.umittuhanioglu.com/cocuk-ortopedi.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/duz-taban.html</loc>
+    <loc>https://www.umittuhanioglu.com/duz-taban.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/ice-basma.html</loc>
+    <loc>https://www.umittuhanioglu.com/ice-basma.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/disa-basma.html</loc>
+    <loc>https://www.umittuhanioglu.com/disa-basma.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/uygun-ayakkbi.html</loc>
+    <loc>https://www.umittuhanioglu.com/uygun-ayakkbi.html</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
